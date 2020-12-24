@@ -15,5 +15,8 @@
 log/
 target/
 
+# Visual Studio Code
+.vscode/
+
 # custom files
 Constants.java
