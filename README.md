@@ -1,12 +1,12 @@
 <img align="left" width="50px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png"> Pixel Pizza by jaronetje
 ===
 
-[![](https://img.shields.io/github/issues/jaronetje/PixelPizza-java?color=green&style=plastic)](https://github.com/jaronetje/PixelPizza/issues?q=is%3Aopen+is%3Aissue)
-[![](https://img.shields.io/github/issues-closed/jaronetje/PixelPizza-java?color=red&style=plastic)](https://github.com/jaronetje/PixelPizza/issues?q=is%3Aissue+is%3Aclosed) 
-[![](https://img.shields.io/github/languages/top/jaronetje/PixelPizza-java?color=yellow&style=plastic)](https://github.com/jaronetje/PixelPizza/search?l=java)
-![](https://img.shields.io/github/contributors/jaronetje/PixelPizza-java?style=plastic) 
-![](https://img.shields.io/github/last-commit/jaronetje/PixelPizza-java?style=plastic) 
-![](https://img.shields.io/github/v/release/jaronetje/PixelPizza-java?include_prereleases&style=plastic)
+[![](https://img.shields.io/github/issues/PixelPizza/PixelPizza-java?color=green&style=plastic)](https://github.com/PixelPizza/PixelPizza-java/issues?q=is%3Aopen+is%3Aissue)
+[![](https://img.shields.io/github/issues-closed/PixelPizza/PixelPizza-java?color=red&style=plastic)](https://github.com/PixelPizza/PixelPizza-java/issues?q=is%3Aissue+is%3Aclosed) 
+[![](https://img.shields.io/github/languages/top/PixelPizza/PixelPizza-java?color=yellow&style=plastic)](https://github.com/PixelPizza/PixelPizza-java/search?l=java)
+![](https://img.shields.io/github/contributors/PixelPizza/PixelPizza-java?style=plastic) 
+![](https://img.shields.io/github/last-commit/PixelPizza/PixelPizza-java?style=plastic) 
+![](https://img.shields.io/github/v/release/PixelPizza/PixelPizza-java?include_prereleases&style=plastic)
 
 <br />
 
